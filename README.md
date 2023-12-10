@@ -1,5 +1,12 @@
 ### Hi there 👋
+# I'm Agastya
 
+- 🔭 I’m currently working at Viga ET as Technical Artist and Developer.
+- 🌱 I’m currently learning about Deep Learning and techniques.
+- 👯 I’m looking to collaborate on similar projects.
+- 📫 How to reach me:
+    ![twitterBadge](https://img.shields.io/badge/4gastyaPatel-black?logo=x&link=https%3A%2F%2Ftwitter.com%2F4gastyaPatel)
+    ![linkedinBadge](https://img.shields.io/badge/4gastyaPatel-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F4gastyaPatel%2F)
 <!--
 **AgastyaPatel/AgastyaPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
