@@ -5,8 +5,12 @@
 - 🌱 I’m currently learning about Deep Learning and techniques.
 - 👯 I’m looking to collaborate on similar projects.
 - 📫 How to reach me:
-    ![twitterBadge](https://img.shields.io/badge/4gastyaPatel-black?logo=x&link=https%3A%2F%2Ftwitter.com%2F4gastyaPatel)
-    ![linkedinBadge](https://img.shields.io/badge/4gastyaPatel-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F4gastyaPatel%2F)
+<br></br>
+[![linkedinBadge](https://img.shields.io/badge/4gastyaPatel-grey?logo=linkedin&labelColor=%230A66C2)](https://www.linkedin.com/in/4gastyapatel/)
+[![twitterBadge](https://img.shields.io/badge/4gastyaPatel-grey?logo=x&logoColor=white&labelColor=%23000000)](https://twitter.com/4gastyaPatel)
+[![mailBadge](https://img.shields.io/badge/contact2agastya%40gmail.com-grey?logo=gmail&logoColor=white&labelColor=%23EA4335)](mailto:contact2agastya@gmail.com)
+<br></br>
+![Github](https://img.shields.io/badge/AgastyaPatel-grey?style=Plastic&label=Github%2FKaggle%2FHuggingFace&labelColor=purple) 
 <!--
 **AgastyaPatel/AgastyaPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
