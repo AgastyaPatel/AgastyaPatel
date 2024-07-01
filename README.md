@@ -1,7 +1,11 @@
-### Hi there 👋
+![image](https://github.com/AgastyaPatel/AgastyaPatel/assets/69053403/d61a9477-b91c-4c46-84ab-f29971f45f40)### Hi there 👋
 # I'm Agastya
 
-- 🔭 I’m currently working at Viga ET as Technical Artist and Developer.
+- 🔭 I’m currently working at Viga ET as Python Developer
+  - Responsible for continuous development of desktop application, maintaining different builds and versions. Handle desktop application product cycle.
+  - Maintain and perform continuous integration of desktop products to be compatible with backend
+  - Introduce new features and design/develop systems which can accommodate new feature.
+  - R&D, work with ai models to extract the necessitated features
 - 🌱 I’m currently learning about Deep Learning and techniques.
 - 👯 I’m looking to collaborate on similar projects.
 <br></br>
