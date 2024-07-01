@@ -1,4 +1,4 @@
-![image](https://github.com/AgastyaPatel/AgastyaPatel/assets/69053403/d61a9477-b91c-4c46-84ab-f29971f45f40)### Hi there 👋
+### Hi there 👋
 # I'm Agastya
 
 - 🔭 I’m currently working at Viga ET as Python Developer
