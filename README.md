@@ -3,6 +3,8 @@ I'm a passionate Python Developer with a focus on AI and cloud technologies. Cur
 
 Intrests: Performance Computing, CuDA, DeepLearning and Cloud.
 
+Check out my Blogs at [agastyapatel.github.io](https://agastyapatel.github.io/Blogs/)
+
 #### Python Developer at Viga ET
 - **AI Workflow Management:** Handle deployments for AI workflow containers
 - **Cloud Integration:** Integrate and manage cloud services for AI operations
